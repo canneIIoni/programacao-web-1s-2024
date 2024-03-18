@@ -1,11 +1,11 @@
 var sum1 = 3;
 var sum2 = 4;
-var sub1 = 10
-var sub2 = 6
-var multi1 = 3
-var multi2 = 7
-var div1 = 12
-var div2 = 6
+var sub1 = 10;
+var sub2 = 6;
+var multi1 = 3;
+var multi2 = 7;
+var div1 = 12;
+var div2 = 6;
 
 // Realização das operações e armazenamento dos resultados
 let sum = sum1 + sum2;
